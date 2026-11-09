@@ -75,7 +75,7 @@
     "wof:belongsto":[
         85683067,
         102191581,
-        907199715,
+        101748417,
         85633143,
         404227411,
         136253047,
@@ -106,7 +106,7 @@
     "wof:id":1125901643,
     "wof:lastmodified":1690879889,
     "wof:name":"It\u00e4salmi",
-    "wof:parent_id":907199715,
+    "wof:parent_id":101748417,
     "wof:placetype":"locality",
     "wof:population":542,
     "wof:population_rank":2,
